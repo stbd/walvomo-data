@@ -1,0 +1,6 @@
+python readRepsentatives.py
+python generateSeatingInfo.py ../data/data_seating.csv ../data/data_representatives.txt ../data/data_Seating:2011.txt
+python bot.py --year 2013
+python updateSeasonActiveMonths.py 2011
+python convertTxtTobin.py
+php run_importer.php

@@ -1,0 +1,22 @@
+{
+  "Representatives": [
+    {
+      "FirstName": "name", 
+      "LastName": "name", 
+      "Region": "Satakunnan vaalipiiri", 
+      "Link": "URL", 
+      "Seasons": "2011", 
+      "Party": "kd", 
+      "Id": 1
+    },
+    {
+      "FirstName": "name", 
+      "LastName": "name", 
+      "Region": "Helsingin vaalipiiri", 
+      "Link": "URL", 
+      "Seasons": "2011", 
+      "Party": "vihr", 
+      "Id": 2
+    }
+  ]
+}

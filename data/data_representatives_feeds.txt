@@ -1,0 +1,34 @@
+{
+  "Collections": [
+    {
+      "Feeds": [
+        {
+          "Description": "Desc", 
+          "Title": "Title", 
+          "URL": "for users",
+          "FeedURL": "for feed",
+          "DataPath": "uniq_path"
+        }
+      ], 
+      "CollectionId": "rkp_official_feeds",
+      "Description": "Desc", 
+      "Title": "RKP",
+      "Tag": "c:rkp;"
+    }, 
+    {
+      "Feeds": [
+        {
+          "Description": "Desc", 
+          "Title": "Title", 
+          "URL": "for users",
+          "FeedURL": "for feed",
+          "DataPath": "uniq_path"
+        }
+      ], 
+      "CollectionId": "kok_official_feeds", 
+      "Description": "Desc", 
+      "Title": "Kokoomus",
+      "Tag": "c:kok;"
+    }
+  ]
+}

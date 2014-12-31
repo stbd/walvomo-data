@@ -1,0 +1,11 @@
+{"News" : [
+	{"Title":"Example",
+	"Content":"Stuff, this is not shown because of NotPublished. Remove it publish",
+	"Published":"6.3.2013 20.00",
+	"NotPublished":1},
+
+	{"Title":"Example",
+	"Content":"Stuff, this is shown",
+	"Published":"6.3.2013 20.00"}
+	]
+}
